@@ -1,0 +1,7 @@
+Modification History:
+
+Dec 10, 2012 
+Fixed the Startscreen and user font uploading problem in I2C and SPI mode, Thanks for Ryuuzaki Julio to point out these Bugs
+
+Dec 2, 2012 
+Fixed displayStartScreen() function
