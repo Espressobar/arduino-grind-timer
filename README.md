@@ -3,6 +3,9 @@ Arduino project designed to control Mazzer espresso grinders by allowing users t
 
 The current version is 1.1.
 
+* ***doc/electrical_diagram.pdf*** is a diagram of the system using components listed below.
+* ***doc/menu_description.pdf*** shows the structure of the application menu.
+
 # Example components
 
 Arduino Uno
